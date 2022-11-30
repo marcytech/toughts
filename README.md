@@ -51,4 +51,4 @@ localhost:3000
 
 Gostaria de compartilhar com você que lê esse documento, minha eterna gratidão para com meu marido. Conhecedor exímio de várias tecnologias e especialista em desenvolvimento de sistemas com a linguagem javascript.
 
-Tenho aprendido muito com você [Rodrigo Rocha](https://github.com/to-codando), obrigado por sua imensa paciência e por todos os incentivos e apoio incondicional :two_hearts.
+Tenho aprendido muito com você [Rodrigo Rocha](https://github.com/to-codando), obrigado por sua imensa paciência e por todos os incentivos e apoio incondicional :two_hearts:.
