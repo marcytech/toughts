@@ -6,7 +6,7 @@
 
  Desenvolvi essa rede social com a finalidade de aprender mais sobre programação.
  
-![Toughts](https://user-images.githubusercontent.com/86862861/204686822-38175910-e92a-4c45-82dd-30566d4310f4.gif)
+<img src="https://user-images.githubusercontent.com/86862861/204686822-38175910-e92a-4c45-82dd-30566d4310f4.gif" width="100%"/>
 
 
  ## Tecnologias 
