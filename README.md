@@ -6,7 +6,7 @@
 
  Desenvolvi essa rede social com a finalidade de aprender mais sobre programação.
  
- /home/marcytech/Downloads/Toughts.gif![image](https://user-images.githubusercontent.com/86862861/204685217-1074465e-3710-49d3-a4af-6f37b910d765.png)
+![image](https://user-images.githubusercontent.com/86862861/204685217-1074465e-3710-49d3-a4af-6f37b910d765.png)
 
 
  ## Tecnologias 
